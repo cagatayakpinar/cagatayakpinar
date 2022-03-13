@@ -1,3 +1,4 @@
+[![MasterHead](https://www.hizliresim.com/egfmtc2)]
 <h1 align="center">Hi 👋, I'm Çağatay Akpınar</h1>
 <h3 align="center">Full-Stack software developer who is keen and passionate about new technologies.</h3>
 <img align="right" alt="coding" witdh "400" src="https://i.giphy.com/media/Idqx5lKaID7Wnk4wfS/giphy.webp">
