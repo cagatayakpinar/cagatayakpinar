@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-gu5z4t7QXkw/Xd8bEk6gVxI/AAAAAAAANhQ/jXlVfYNQbOw3Uj4zsxT3fqT5jdrZP4FFQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Çağatay Akpınar</h1>
 <h3 align="center">Full-Stack software developer who is keen and passionate about new technologies.</h3>
 <img align="right" alt="coding" witdh "400" src="https://i.giphy.com/media/Idqx5lKaID7Wnk4wfS/giphy.webp">
